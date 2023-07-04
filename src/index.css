@@ -1,0 +1,17 @@
+/* 폰트설정 */
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+/* 여백초기화 */
+*{margin: 0;padding: 0;box-sizing: inherit;}
+
+body {
+  margin: 0;
+  font-family: 'Jua', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
